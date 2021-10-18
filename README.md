@@ -7,17 +7,19 @@
 node
 koa2.0
 vue 2.0
+mongodb
 
-
-#### 安装教程
-
-1.  npm install XXX
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
+一.前端已打包在www文件目录里
+1.启动mongodb
+2. node aap.js
+二。前端项目未打包源码，见全栈实践koa-vue-mongodb前端源码
 
-1.  node aap.js
+#### 前端安装教程
+
+1.  npm install 
+2.  npm run start 
 
 
 #### 参与贡献
